@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Cookie Bear 🍪🐻</h1>
-<h3 align="center">Final Year CSE Student | ML Explorer | Future Amsterdam Techie 🇳🇱</h3>
+<h1 align="center">Hi, I'm Shravani Jaiswal 🍪🐻</h1>
+<h3 align="center">Final Year CSE Student | ML Explorer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3N2p5c3JrYmJoOXZnNTg4aGp1YmZzN2w3eTVybHRudmFqYjQ2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
@@ -39,7 +39,7 @@
 
 ---
 
-📈 **GitHub Stats (I’m on fire rn 🔥)**
+📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuTyche&theme=tokyonight&hide_border=true" />
