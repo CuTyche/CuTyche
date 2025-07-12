@@ -2,7 +2,7 @@
 <h3 align="center">Final Year CSE Student | Aspiring ML Engineer | Passionate About AI & Problem Solving</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF3N2p5c3JrYmJoOXZnNTg4aGp1YmZzN2w3eTVybHRudmFqYjQ2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+  <img src="https://images-ext-1.discordapp.net/external/wdN5wYN5qrCzfmsAVCvgc1RLaGp4-2ZOxcmKxs6ixYQ/https/user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?width=500&height=281" width="200"/>
 </p>
 
 ---
